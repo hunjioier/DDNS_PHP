@@ -1,5 +1,10 @@
 {
     "log":"/home/a/log/",
     "ip_temp":"/home/a/ip_conf",
-    "log_saveTime":"5184000"
+    "log_saveTime":"5184000",
+    "ssh_key":"XXXXXXXXXXXX",
+    "ssh_pwd":"xxxxxxxxxxxx",
+    "domain":"XXX.com",
+    "name":"@",
+    "ttl":60
 }
