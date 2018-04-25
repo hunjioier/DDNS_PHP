@@ -2,7 +2,7 @@
 A DDNS program by php for gogaddy
 --------
 #notify
-change config and chmod
-set log save time in config
+set config and chmod
 
-cronb cleanlog.php
+cronb cleanlog.php and updateIP.php
+enjoy it:)
