@@ -1,4 +1,5 @@
 {
     "log":"/home/a/log/",
-    "ip_temp":"/home/a/ip_conf"
+    "ip_temp":"/home/a/ip_conf",
+    "log_saveTime":"5184000"
 }
